@@ -2,5 +2,5 @@
 
 Sync action repo sample to test the GitHub action.
 
-Version 1.0:
-- Simple repo creation. This should appear in the forked repo after sync.
+Version 2.0:
+- Sync action chron testing. This will be updated at 21:42 and will be updated in the forked repo at 17:59.
