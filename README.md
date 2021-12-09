@@ -2,5 +2,5 @@
 
 Sync action repo sample to test the GitHub action.
 
-Version 2.0:
-- Sync action chron testing. This will be updated at 21:42 and will be updated in the forked repo at 17:59.
+Version 3.0:
+- Sync action Windows testing. This will be updated manually in the Windows environment.
